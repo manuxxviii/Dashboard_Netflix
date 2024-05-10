@@ -13,5 +13,6 @@ dashbuilder = {
 	hideNavBar: true
 */
   dashboards: ["hello-dashboard.dash.yaml"],
+
   hideNavBar: true
 };
